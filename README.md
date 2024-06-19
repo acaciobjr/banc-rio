@@ -9,3 +9,7 @@ Considerações Técnicas
 As operações são registradas numa lista de transações, facilitando o rastreamento do histórico.
 O saldo é atualizado a cada operação e é apresentado em formato monetário usando a localidade pt_BR.
 Este sistema é ideal para estudantes que desejam entender os conceitos básicos de operações bancárias e a manipulação de estados em programas.
+
+No desafio_v1 e desafio_v2 foi implementado a tradução das palavras em português para inglês, deixando o código com entendimento universal bem como o boa prática do Clean Code removendo símbolos decorativos, simplificação de condições nos métodos, atualização dos métodos que tratam as opções do menu para funcionarem com as classes modeladas e o ajuste de limite de saldo para o valor de 2500 reais e saques limitados a 500 reais.
+
+Repito, todos os códigos inseridos nesse repositório são para fins de aprendizado e não comerciais.
